@@ -1,0 +1,28 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: linear-gradient(to bottom, #e8f5e9, #f1f8e9);
+  color: #333;
+}
+
+.site-header {
+  background-color: #2e7d32;
+}
+
+.site-footer {
+  background-color: #4caf50;
+}
+
+.navbar {
+  background-color: #388e3c !important;
+}
+
+.navbar-nav .nav-link {
+  color: #e8f5e9 !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: 700;
+  text-decoration: underline;
+  color: #c8e6c9 !important;
+}
